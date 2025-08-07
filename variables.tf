@@ -1,0 +1,12 @@
+variable "tenant" {}
+variable "name" {}
+variable "environment" {}
+variable "region" {}
+variable "cidr_block" {}
+variable "nat_gateway" {}
+variable "nat_count" {}
+variable "nat_bandwidth" {}
+variable "pbl_sub_count" {}
+variable "pvt_sub_count" {}
+variable "cce_sub_count" {}
+variable "db_sub_count" {}
